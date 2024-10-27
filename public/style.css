@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div{
+    background-color: cadetblue;
+    padding:10px 1px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.name{
+font-style: italic;
+}
+.content{
+    color: black;
+}
+.adiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+.newpost{
+    font-size: 25px;
+    padding-bottom: 20px;
+    color: crimson;
+}
